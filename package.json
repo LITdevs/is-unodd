@@ -1,0 +1,26 @@
+{
+  "name": "is-unodd",
+  "version": "1.0.0",
+  "description": "Returns true if the given number is unodd.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VukkyLtd/is-unodd.git"
+  },
+  "keywords": [
+    "unodd",
+    "even"
+  ],
+  "author": "Vukky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VukkyLtd/is-unodd/issues"
+  },
+  "homepage": "https://github.com/VukkyLtd/is-unodd#readme",
+  "dependencies": {
+    "is-uneven": "^1.0.0"
+  }
+}
